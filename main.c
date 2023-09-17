@@ -2,7 +2,7 @@
 
 int main() {
     int requests;
-    printf("Введите количество наборов данных:");
+    printf("Введите количество запросов:");
     scanf("%d", &requests);
     for(int i=1; i<=requests; i++) {
         long long liters, first_cost, second_cost;
