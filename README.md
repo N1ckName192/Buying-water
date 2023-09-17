@@ -11,4 +11,4 @@
 Вы хотите потратить минимально возможное количество денег. 
 Моя программа найдёт минимальное количество денег (в рублях), которое нужно вам для того, чтобы купить ровно n литров воды в ближайшем магазине, если бутылка первого типа стоит a рублей, а бутылка второго типа стоит b рублей.
 
-![Uploading Bottled-water-spring-water-writing-is-fun-damental-from-gwendolyn-hoff-clipart.gif…]()
+![Bottled-water-spring-water-writing-is-fun-damental-from-gwendolyn-hoff-clipart](https://github.com/N1ckName192/Buying-water/assets/85516400/a099a47c-bb57-40ba-ba8f-689c4f55dd59)
