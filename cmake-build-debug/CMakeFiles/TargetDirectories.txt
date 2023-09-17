@@ -1,0 +1,3 @@
+C:/Users/nikit/OneDrive/Рабочий стол/СИ/Лаба 19.1/6/cmake-build-debug/CMakeFiles/6.dir
+C:/Users/nikit/OneDrive/Рабочий стол/СИ/Лаба 19.1/6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nikit/OneDrive/Рабочий стол/СИ/Лаба 19.1/6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
